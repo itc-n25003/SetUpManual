@@ -6,7 +6,7 @@
 1. sudo apt update
 2. sudo apt install language-pack-ja
 
-%※ 日本語設定を固定化したい場合は、~/.bash_profileにexport LANG=ja_JP.UTF-8を記入する。%{tomato}
+%<span style="color: tomato;">※ 日本語設定を固定化したい場合は、~/.bash_profileにexport LANG=ja_JP.UTF-8を記入する。</span>
 ### vimtutorのヘルプの日本語版設定
 1. [help - Vim日本語ドキュメント](https://vim-jp.org/vimdoc-ja/)サイト下部にある%ヘルプ一式ダウンロード%{rgb(0,255,255)}のtar.gzをクリックしダウンロードする。
 (ダウンロードファイル:vimdoc-ja-master.tar.gz)
