@@ -27,3 +27,6 @@ rm -rf README.md vimdoc-ja-master/ #(これは任意でいいかも)
 
 
 #### 最終更新　2026/05/12
+
+##### 参考サイト
+[wsl2(ubuntu)でvimtutorを日本語で起動する方法](https://zenn.dev/ripoh/articles/17e00fb5f4ebcb)
