@@ -30,3 +30,4 @@ rm -rf README.md vimdoc-ja-master/ #(これは任意でいいかも)
 
 ##### 参考サイト
 [wsl2(ubuntu)でvimtutorを日本語で起動する方法](https://zenn.dev/ripoh/articles/17e00fb5f4ebcb)
+[ubuntuにおける環境変数の設定](https://qiita.com/halglobe0108/items/735433531e7b17a20b54)
