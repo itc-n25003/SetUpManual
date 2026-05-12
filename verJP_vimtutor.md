@@ -1,3 +1,4 @@
+ubuntuでの設定
 ## vimtutorの日本語版設定
 1. export LANG=ja_JP.UTF-8
 2. vimtutor
